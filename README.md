@@ -53,6 +53,6 @@ Feel free to fork the repo and create pull requests! Contributions are welcome. 
 
 📧 Contact
 
-📌 [Your Name] ✉️
-📌 Email: your_email@example.com
-📌 LinkedIn: [Your LinkedIn Profile] 🔗
+📌 kushal acharya
+📌 Aditya Bajracharya
+📌 Ayush Ranjitkar
