@@ -53,6 +53,6 @@ Feel free to fork the repo and create pull requests! Contributions are welcome. 
 
 📧 Contact
 
-📌 kushal acharya
+📌 Kushal acharya
 📌 Aditya Bajracharya
 📌 Ayush Ranjitkar
